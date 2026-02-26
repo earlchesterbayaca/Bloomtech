@@ -1,0 +1,5 @@
+{
+  "name": "BloomTech Connect",
+  "description": "A premium online flower shop for long-distance gifting with real-time tracking and customization.",
+  "requestFramePermissions": ["geolocation"]
+}
